@@ -49,9 +49,9 @@ const runtime = function (seconds) {
 };
 fakenomor = '0@s.whatsapp.net'
 const gcrevoke = ["916909137213-1621430788@g.us"]
-prefix = '#'
+prefix = ':'
 shp = '⬡'
-owner = "916909137213@s.whatsapp.net"
+owner = "916377138382@s.whatsapp.net"
 spc1 = '         '
 spc2 = '\n                           '
 spc3 = '                   '
